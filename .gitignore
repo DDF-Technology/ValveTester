@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+app/build/
+app/dist/
+
+# Risultati dei test
+app/Test effettuati in data */
+
+# Editor e sistema operativo
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
